@@ -1,0 +1,10 @@
+Pada project ini berisi mengenai pembuatan model sentiment analysis menggunakan kombinasi model convolutional dan LSTM.
+Dibuat beberapa model untuk pengecekan akurasi sentiment analysis terhadap lebih dari 60.000 data twitter dengan multilabel emosi.
+
+Model-model conv-LSTM terdiri dari :
+1. Word2Vec dengan average pooling
+2. Word2Vec dengan max pooling
+3. Fast Text dengan average pooling
+4. Fast Text dengan max pooling
+
+Setelah dilakukan pengecekan akurasi, word2vec memiliki akurasi yang lebih besar dibandingkan fast text.
