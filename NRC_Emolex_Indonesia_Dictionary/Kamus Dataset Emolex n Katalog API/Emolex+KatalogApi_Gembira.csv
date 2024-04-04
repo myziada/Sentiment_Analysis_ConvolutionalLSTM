@@ -1,0 +1,370 @@
+,word,val,no
+0,bahagia,1,
+1,bercahaya,1,
+2,berseri,1,
+3,bahagia,1,
+4,ceria,1,
+5,angkuh,1,
+6,bagak,1,
+7,besar diri,1,
+8,besar hati,1,
+9,besar kepala,1,
+10,bongkak,1,
+11,betah,1,
+12,gembira,1,
+13,mudah,1,
+14,praktis,1,
+15,sayang,1,
+16,suka,1,
+17,tenteram,1,
+18,girang,1,
+19,naim,1,
+20,sukacita,1,
+21,makmur,1,
+22,nikmat,1,
+23,aman,1,
+24,asyik,1,
+25,lapang,1,
+26,bahagia,1,
+27,demen,1,
+28,ceria,1,
+29,marem,1,
+30,ringan,1,
+31,sejuk,1,
+32,doyan,1,
+33,jidur,1,
+34,aman,1,
+35,baik,1,
+36,berbahagia,1,
+37,beruntung,1,
+38,cerah,1,
+39,ceria,1,
+40,enak,1,
+41,gembira,1,
+42,girang,1,
+43,meninggalkan,1,0.0
+44,ditinggalkan,1,1.0
+45,pengabaian,1,2.0
+46,penculikan,1,3.0
+47,benci,1,4.0
+48,mengerikan,1,5.0
+49,mengerikan,1,6.0
+50,kekejian,1,7.0
+51,abortus,1,8.0
+52,ketiadaan,1,9.0
+53,melecehkan,1,10.0
+54,jurang yang dalam,1,11.0
+55,kecelakaan,1,12.0
+56,kebetulan,1,13.0
+57,terkutuk,1,14.0
+58,dituduh,1,15.0
+59,penuduh,1,16.0
+60,menuduh,1,17.0
+61,akrobat,1,18.0
+62,Adder,1,19.0
+63,mengadili,1,20.0
+64,peringatan,1,21.0
+65,terpaut,1,22.0
+66,maju,1,23.0
+67,merugikan,1,24.0
+68,kesulitan,1,25.0
+69,menimpa,1,26.0
+70,penderitaan,1,27.0
+71,penghinaan,1,28.0
+72,takut,1,29.0
+73,akibat,1,30.0
+74,AGA,1,31.0
+75,agresi,1,32.0
+76,agresif,1,33.0
+77,agresor,1,34.0
+78,terperanjat,1,35.0
+79,penderitaan,1,36.0
+80,rasa sakit,1,37.0
+81,sakit,1,38.0
+82,alarm,1,39.0
+83,menggelisahkan,1,40.0
+84,alkoholisme,1,41.0
+85,kewaspadaan,1,42.0
+86,peringatan,1,43.0
+87,asing,1,44.0
+88,pengasingan,1,45.0
+89,ambulans,1,46.0
+90,penyergapan,1,47.0
+91,Anaconda,1,48.0
+92,anarkisme,1,0.0
+93,anarkis,1,1.0
+94,anarki,1,2.0
+95,laknat,1,3.0
+96,angina,1,4.0
+97,derita,1,5.0
+98,kebencian,1,6.0
+99,membinasakan,1,7.0
+100,musnah,1,8.0
+101,penghancuran,1,9.0
+102,anomali,1,10.0
+103,Antraks,1,11.0
+104,Antikristus,1,12.0
+105,antisosial,1,13.0
+106,kecemasan,1,14.0
+107,cemas,1,15.0
+108,Apache,1,16.0
+109,mengerikan,1,17.0
+110,penampakan,1,18.0
+111,radang usus buntu,1,19.0
+112,menangkap,1,20.0
+113,penangkapan,1,21.0
+114,gelisah,1,22.0
+115,persenjataan,1,23.0
+116,persenjataan,1,24.0
+117,bersenjata,1,25.0
+118,baju zirah,1,26.0
+119,lapis baja,1,27.0
+120,dakwaan,1,28.0
+121,Arsenik,1,29.0
+122,pembakaran,1,30.0
+123,artileri,1,31.0
+124,asp,1,32.0
+125,menyerang,1,33.0
+126,penyerang,1,34.0
+127,pembunuh,1,35.0
+128,membunuh,1,36.0
+129,pembunuhan,1,37.0
+130,menyerang,1,38.0
+131,sesat,1,39.0
+132,suaka,1,40.0
+133,Aterosklerosis,1,41.0
+134,kekejaman,1,42.0
+135,atrophia,1,43.0
+136,menyerang,1,44.0
+137,menyerang,1,45.0
+138,pengacara,1,46.0
+139,Auditor,1,47.0
+140,keras,1,48.0
+141,autopsi,1,49.0
+142,salju longsor,1,50.0
+143,enggan,1,51.0
+144,keengganan,1,52.0
+145,menghindari,1,53.0
+146,penghindaran,1,54.0
+147,menghindari,1,55.0
+148,buruk sekali,1,56.0
+149,bakteri,1,57.0
+150,bakteri,1,58.0
+151,buruk,1,59.0
+152,kejahatan,1,60.0
+153,juru sita,1,61.0
+154,umpan,1,62.0
+155,bal,1,63.0
+156,kutukan,1,64.0
+157,Bang,1,65.0
+158,Banger,1,66.0
+159,membuang,1,67.0
+160,dibuang,1,68.0
+161,bangkrut,1,0.0
+162,kebangkrutan,1,1.0
+163,Banshee,1,2.0
+164,barbar,1,3.0
+165,biadab,1,4.0
+166,barikade,1,5.0
+167,adonan,1,6.0
+168,babak belur,1,7.0
+169,berjuang,1,8.0
+170,medan perang,1,9.0
+171,bayonet,1,10.0
+172,beruang,1,11.0
+173,kasar,1,12.0
+174,binatang buas,1,13.0
+175,jijik,1,14.0
+176,mengalahkan,1,15.0
+177,lebah,1,16.0
+178,raksasa binatang,1,17.0
+179,meremehkan,1,18.0
+180,berperang,1,19.0
+181,sabuk,1,20.0
+182,kejam,1,21.0
+183,awas,1,22.0
+184,bingung,1,23.0
+185,kebingungan,1,24.0
+186,usungan jenazah,1,25.0
+187,fanatik,1,26.0
+188,fanatik,1,27.0
+189,biopsi,1,28.0
+190,Birch,1,29.0
+191,kelahiran,1,30.0
+192,jalang,1,31.0
+193,pemerasan,1,32.0
+194,kegelapan,1,33.0
+195,ledakan,1,34.0
+196,berdarah,1,35.0
+197,cacat,1,36.0
+198,hawar,1,37.0
+199,menutup mata,1,38.0
+200,gumpal,1,39.0
+201,blokade,1,40.0
+202,pertumpahan darah,1,41.0
+203,haus darah,1,42.0
+204,berdarah,1,43.0
+205,blues,1,44.0
+206,bom,1,45.0
+207,membombardir,1,46.0
+208,pengeboman,1,47.0
+209,pembom,1,48.0
+210,perbudakan,1,49.0
+211,Tanpa dasar,1,50.0
+212,ribut,1,51.0
+213,brigade,1,52.0
+214,belerang,1,53.0
+215,bangkrut,1,54.0
+216,rusak,1,55.0
+217,brutal,1,56.0
+218,kebrutalan,1,57.0
+219,kasar,1,58.0
+220,Buck,1,59.0
+221,serangga,1,60.0
+222,momok,1,61.0
+223,menggertak,1,62.0
+224,bunker,1,63.0
+225,berat,1,64.0
+226,pencuri,1,65.0
+227,pemakaman,1,66.0
+228,terkubur,1,67.0
+229,menutup perkara,1,68.0
+230,ditangkap basah,1,69.0
+231,tukang daging,1,70.0
+232,berdengung,1,71.0
+233,komplotan rahasia,1,72.0
+234,mayat,1,73.0
+235,Kampanye,1,74.0
+236,kanker,1,75.0
+237,tebu,1,76.0
+238,kanibal,1,77.0
+239,meriam,1,78.0
+240,tawanan,1,79.0
+241,penahan,1,80.0
+242,bangkai,1,81.0
+243,karsinoma,1,82.0
+244,Kardiomiopati,1,83.0
+245,pembantaian,1,84.0
+246,karnivora,1,85.0
+247,peluru,1,86.0
+248,kasus,1,87.0
+249,uang tunai,1,88.0
+250,peti mati,1,89.0
+251,korban,1,90.0
+252,katarak,1,91.0
+253,malapetaka,1,92.0
+254,peringatan,1,93.0
+255,PERHATIAN,1,94.0
+256,waspada,1,95.0
+257,dengan hati -hati,1,96.0
+258,kuburan,1,97.0
+259,sensor,1,98.0
+260,sekam,1,99.0
+261,tantangan,1,100.0
+262,mengubah,1,101.0
+263,kekacauan,1,102.0
+264,Dibebankan,1,103.0
+265,jurang,1,104.0
+266,ayam,1,105.0
+267,Chimera,1,106.0
+268,bentrok,1,0.0
+269,cakar,1,1.0
+270,membelah,1,2.0
+271,jurang,1,3.0
+272,keadaan mendung,1,4.0
+273,kobra,1,5.0
+274,memaksa,1,6.0
+275,paksaan,1,7.0
+276,peti mati,1,8.0
+277,kedinginan,1,9.0
+278,runtuh,1,10.0
+279,kolusi,1,11.0
+280,koma,1,12.0
+281,pingsan,1,13.0
+282,tempur,1,14.0
+283,pejuang,1,15.0
+284,agresif,1,16.0
+285,komunisme,1,17.0
+286,kasih sayang,1,18.0
+287,disembunyikan,1,19.0
+288,penyembunyian,1,20.0
+289,khawatir,1,21.0
+290,penghukuman,1,22.0
+291,pengakuan,1,23.0
+292,pengakuan dosa,1,24.0
+293,kepercayaan diri,1,25.0
+294,membatasi,1,26.0
+295,terbatas,1,27.0
+296,kurungan,1,28.0
+297,kebakaran besar,1,29.0
+298,konflik,1,30.0
+299,kebingungan,1,31.0
+300,penaklukan,1,32.0
+301,konspirasi,1,33.0
+302,konspirator,1,34.0
+303,bersekongkol,1,35.0
+304,kekuatiran,1,36.0
+305,memaksa,1,37.0
+306,paksaan,1,38.0
+307,penularan,1,39.0
+308,menular,1,40.0
+309,terkontaminasi,1,41.0
+310,penghinaan,1,42.0
+311,kontensius,1,43.0
+312,barang selundupan,1,44.0
+313,menghukum,1,45.0
+314,polisi,1,46.0
+315,korosif,1,47.0
+316,merusak,1,48.0
+317,konselor,1,49.0
+318,berani,1,50.0
+319,pengadilan,1,51.0
+320,teluk kecil,1,52.0
+321,pengecut,1,53.0
+322,pengecut,1,54.0
+323,Cowardly,1,55.0
+324,coy,1,56.0
+325,anjing hutan,1,57.0
+326,retak,1,58.0
+327,menabrak,1,59.0
+328,gila,1,60.0
+329,gila,1,61.0
+330,makhluk,1,62.0
+331,pidana,1,63.0
+332,kriminalitas,1,64.0
+333,jijik,1,65.0
+334,melumpuhkan,1,66.0
+335,mengkritik,1,67.0
+336,buaya,1,68.0
+337,menyeberang,1,69.0
+338,mendekam,1,70.0
+339,berjongkok,1,71.0
+340,penyaliban,1,72.0
+341,kejam,1,73.0
+342,dengan kejam,1,74.0
+343,kekejaman,1,75.0
+344,perang salib,1,76.0
+345,hancur,1,77.0
+346,penumpasan,1,78.0
+347,ruang bawah tanah,1,79.0
+348,kultus,1,80.0
+349,bekam,1,81.0
+350,bajingan,1,82.0
+351,menyumpahi,1,83.0
+352,dikutuk,1,84.0
+353,pemotong,1,85.0
+354,kejam,1,86.0
+355,pemotongan,1,87.0
+356,sianida,1,88.0
+357,topan,1,89.0
+358,kista,1,90.0
+359,Daemon,1,91.0
+360,belati,1,92.0
+361,kutukan,1,93.0
+362,bahaya,1,94.0
+363,berbahaya,1,95.0
+364,menggelapkan,1,96.0
+365,gelap,1,97.0
+366,congkak,1,
+367,gembira,1,
+368,riang,1,

@@ -1,0 +1,324 @@
+no,word,val
+0,meninggalkan,1
+1,ditinggalkan,1
+2,pengabaian,1
+3,penculikan,1
+4,benci,1
+5,mengerikan,1
+6,mengerikan,1
+7,kekejian,1
+8,abortus,1
+9,ketiadaan,1
+10,melecehkan,1
+11,jurang yang dalam,1
+12,kecelakaan,1
+13,kebetulan,1
+14,terkutuk,1
+15,dituduh,1
+16,penuduh,1
+17,menuduh,1
+18,akrobat,1
+19,Adder,1
+20,mengadili,1
+21,peringatan,1
+22,terpaut,1
+23,maju,1
+24,merugikan,1
+25,kesulitan,1
+26,menimpa,1
+27,penderitaan,1
+28,penghinaan,1
+29,takut,1
+30,akibat,1
+31,AGA,1
+32,agresi,1
+33,agresif,1
+34,agresor,1
+35,terperanjat,1
+36,penderitaan,1
+37,rasa sakit,1
+38,sakit,1
+39,alarm,1
+40,menggelisahkan,1
+41,alkoholisme,1
+42,kewaspadaan,1
+43,peringatan,1
+44,asing,1
+45,pengasingan,1
+46,ambulans,1
+47,penyergapan,1
+48,Anaconda,1
+0,anarkisme,1
+1,anarkis,1
+2,anarki,1
+3,laknat,1
+4,angina,1
+5,derita,1
+6,kebencian,1
+7,membinasakan,1
+8,musnah,1
+9,penghancuran,1
+10,anomali,1
+11,Antraks,1
+12,Antikristus,1
+13,antisosial,1
+14,kecemasan,1
+15,cemas,1
+16,Apache,1
+17,mengerikan,1
+18,penampakan,1
+19,radang usus buntu,1
+20,menangkap,1
+21,penangkapan,1
+22,gelisah,1
+23,persenjataan,1
+24,persenjataan,1
+25,bersenjata,1
+26,baju zirah,1
+27,lapis baja,1
+28,dakwaan,1
+29,Arsenik,1
+30,pembakaran,1
+31,artileri,1
+32,asp,1
+33,menyerang,1
+34,penyerang,1
+35,pembunuh,1
+36,membunuh,1
+37,pembunuhan,1
+38,menyerang,1
+39,sesat,1
+40,suaka,1
+41,Aterosklerosis,1
+42,kekejaman,1
+43,atrophia,1
+44,menyerang,1
+45,menyerang,1
+46,pengacara,1
+47,Auditor,1
+48,keras,1
+49,autopsi,1
+50,salju longsor,1
+51,enggan,1
+52,keengganan,1
+53,menghindari,1
+54,penghindaran,1
+55,menghindari,1
+56,buruk sekali,1
+57,bakteri,1
+58,bakteri,1
+59,buruk,1
+60,kejahatan,1
+61,juru sita,1
+62,umpan,1
+63,bal,1
+64,kutukan,1
+65,Bang,1
+66,Banger,1
+67,membuang,1
+68,dibuang,1
+0,bangkrut,1
+1,kebangkrutan,1
+2,Banshee,1
+3,barbar,1
+4,biadab,1
+5,barikade,1
+6,adonan,1
+7,babak belur,1
+8,berjuang,1
+9,medan perang,1
+10,bayonet,1
+11,beruang,1
+12,kasar,1
+13,binatang buas,1
+14,jijik,1
+15,mengalahkan,1
+16,lebah,1
+17,raksasa binatang,1
+18,meremehkan,1
+19,berperang,1
+20,sabuk,1
+21,kejam,1
+22,awas,1
+23,bingung,1
+24,kebingungan,1
+25,usungan jenazah,1
+26,fanatik,1
+27,fanatik,1
+28,biopsi,1
+29,Birch,1
+30,kelahiran,1
+31,jalang,1
+32,pemerasan,1
+33,kegelapan,1
+34,ledakan,1
+35,berdarah,1
+36,cacat,1
+37,hawar,1
+38,menutup mata,1
+39,gumpal,1
+40,blokade,1
+41,pertumpahan darah,1
+42,haus darah,1
+43,berdarah,1
+44,blues,1
+45,bom,1
+46,membombardir,1
+47,pengeboman,1
+48,pembom,1
+49,perbudakan,1
+50,Tanpa dasar,1
+51,ribut,1
+52,brigade,1
+53,belerang,1
+54,bangkrut,1
+55,rusak,1
+56,brutal,1
+57,kebrutalan,1
+58,kasar,1
+59,Buck,1
+60,serangga,1
+61,momok,1
+62,menggertak,1
+63,bunker,1
+64,berat,1
+65,pencuri,1
+66,pemakaman,1
+67,terkubur,1
+68,menutup perkara,1
+69,ditangkap basah,1
+70,tukang daging,1
+71,berdengung,1
+72,komplotan rahasia,1
+73,mayat,1
+74,Kampanye,1
+75,kanker,1
+76,tebu,1
+77,kanibal,1
+78,meriam,1
+79,tawanan,1
+80,penahan,1
+81,bangkai,1
+82,karsinoma,1
+83,Kardiomiopati,1
+84,pembantaian,1
+85,karnivora,1
+86,peluru,1
+87,kasus,1
+88,uang tunai,1
+89,peti mati,1
+90,korban,1
+91,katarak,1
+92,malapetaka,1
+93,peringatan,1
+94,PERHATIAN,1
+95,waspada,1
+96,dengan hati -hati,1
+97,kuburan,1
+98,sensor,1
+99,sekam,1
+100,tantangan,1
+101,mengubah,1
+102,kekacauan,1
+103,Dibebankan,1
+104,jurang,1
+105,ayam,1
+106,Chimera,1
+0,bentrok,1
+1,cakar,1
+2,membelah,1
+3,jurang,1
+4,keadaan mendung,1
+5,kobra,1
+6,memaksa,1
+7,paksaan,1
+8,peti mati,1
+9,kedinginan,1
+10,runtuh,1
+11,kolusi,1
+12,koma,1
+13,pingsan,1
+14,tempur,1
+15,pejuang,1
+16,agresif,1
+17,komunisme,1
+18,kasih sayang,1
+19,disembunyikan,1
+20,penyembunyian,1
+21,khawatir,1
+22,penghukuman,1
+23,pengakuan,1
+24,pengakuan dosa,1
+25,kepercayaan diri,1
+26,membatasi,1
+27,terbatas,1
+28,kurungan,1
+29,kebakaran besar,1
+30,konflik,1
+31,kebingungan,1
+32,penaklukan,1
+33,konspirasi,1
+34,konspirator,1
+35,bersekongkol,1
+36,kekuatiran,1
+37,memaksa,1
+38,paksaan,1
+39,penularan,1
+40,menular,1
+41,terkontaminasi,1
+42,penghinaan,1
+43,kontensius,1
+44,barang selundupan,1
+45,menghukum,1
+46,polisi,1
+47,korosif,1
+48,merusak,1
+49,konselor,1
+50,berani,1
+51,pengadilan,1
+52,teluk kecil,1
+53,pengecut,1
+54,pengecut,1
+55,Cowardly,1
+56,coy,1
+57,anjing hutan,1
+58,retak,1
+59,menabrak,1
+60,gila,1
+61,gila,1
+62,makhluk,1
+63,pidana,1
+64,kriminalitas,1
+65,jijik,1
+66,melumpuhkan,1
+67,mengkritik,1
+68,buaya,1
+69,menyeberang,1
+70,mendekam,1
+71,berjongkok,1
+72,penyaliban,1
+73,kejam,1
+74,dengan kejam,1
+75,kekejaman,1
+76,perang salib,1
+77,hancur,1
+78,penumpasan,1
+79,ruang bawah tanah,1
+80,kultus,1
+81,bekam,1
+82,bajingan,1
+83,menyumpahi,1
+84,dikutuk,1
+85,pemotong,1
+86,kejam,1
+87,pemotongan,1
+88,sianida,1
+89,topan,1
+90,kista,1
+91,Daemon,1
+92,belati,1
+93,kutukan,1
+94,bahaya,1
+95,berbahaya,1
+96,menggelapkan,1
+97,gelap,1
